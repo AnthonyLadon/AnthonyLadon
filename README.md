@@ -1,4 +1,6 @@
     👋 Hi, I’m @AnthonyLadon
-    🌱 I’m currently preaparing a BES (superior studies) and this is my last year (wish me luck)
-    📫 How to reach me ladonanthony@gmail.com
+    🌱 I’m currently preaparing a Web developer B.E.S (Brevet d'études supérieures) in june (wish me luck)
+    📫 How to reach me: ladonanthony@gmail.com
+
+
 
