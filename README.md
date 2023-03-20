@@ -1,9 +1,9 @@
 ### ✏️ A propos de moi
 
 - 🌍 J'habite Liège
-- 🧠 Je prépare un Brevet d'Etudes Supérieures de webdeveloper
+- 🧠 Je prépare un Brevet d'Etudes Supérieures de webdeveloper (juin 2023)
 - 🧠 Durant mon stage chez Equans j'ai pu me former sur Angular (et je continue encore aujourd'hui)
-- 🤝 En ce moment je travaille sur un projet d'application web pour mon TFE
+- 🤝 En ce moment je travaille sur un projet Symfony pour mon travail de fin d'études.
 
 ### :bulb: Stack:
 
@@ -15,6 +15,7 @@
       <a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/shield-large.svg" alt="angular" width="40" height="40"/> </a>
         <a href="https://www.php.net/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/></a>
     <a href="https://symfony.com/" target="blank"><img src="https://logos-download.com/wp-content/uploads/2019/01/Symfony_Logo.png" alt="symfony" width="40" height="40"/></a>
+        <a href="https://wordpress.com/fr/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/></a>
 
 ### :eyes: N'hésitez pas à me contacter si vous souhaitez échanger !
 
