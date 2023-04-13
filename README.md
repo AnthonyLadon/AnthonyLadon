@@ -3,7 +3,7 @@
 - 🌍 J'habite Liège
 - 🧠 Je prépare un Brevet d'Etudes Supérieures de webdeveloper (juin 2023)
 - 🧠 Durant mon stage chez Equans j'ai pu me former sur Angular (et je continue encore aujourd'hui)
-- 🤝 En ce moment je travaille sur un projet Symfony pour mon travail de fin d'études.
+- 💪 En ce moment je travaille sur une application web (Symfony) pour mon travail de fin d'études. Deadline: fin Juin 🙀.
 
 ### :bulb: Stack:
 
