@@ -1,9 +1,9 @@
 ### ✏️ A propos de moi
 
 - 🌍 J'habite Liège
-- 🧠 Je prépare un Brevet d'Etudes Supérieures de webdeveloper (juin 2023)
-- 🧠 Durant mon stage chez Equans j'ai pu me former sur Angular (et je continue encore aujourd'hui)
-- 💪 En ce moment je travaille sur une application web (Symfony) pour mon travail de fin d'études. Deadline: fin Juin 🙀.
+- 👨🏻‍🎓 J'ai obtenu mon Brevet d'Etudes Supérieures en webdevelopement en juin 2023 (grande distinction)
+- 🧠 Durant mon stage (et pendant mon travail de fin d'études) j'ai pu avoir une réelle expérience avec le Framework PHP Symfony et découvrir Angular.
+- 💪 En ce moment je travaille sur une application web (Symfony) de pet sitting.
 
 ### :bulb: Stack:
 
@@ -17,7 +17,7 @@
     <a href="https://symfony.com/" target="blank"><img src="https://logos-download.com/wp-content/uploads/2019/01/Symfony_Logo.png" alt="symfony" width="40" height="40"/></a>
         <a href="https://wordpress.com/fr/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/></a>
 
-### :eyes: N'hésitez pas à me contacter si vous souhaitez échanger !
+### :eyes: N'hésitez pas à me contacter!
 
 - 🚀 [Mon LinkedIn](https://www.linkedin.com/in/anthonyladon/)
 - ✉️ Mon adresse mail: [ladonanthony@gmail.com](ladonanthony@gmail.com) 
