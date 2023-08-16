@@ -2,7 +2,7 @@
 
 - 🌍 J'habite Liège
 - 👨🏻‍🎓 J'ai obtenu mon Brevet d'Etudes Supérieures en webdevelopement en juin 2023 (grande distinction)
-- 🧠 Durant mon stage (et pendant mon travail de fin d'études) j'ai pu avoir une réelle expérience avec le Framework PHP Symfony et découvrir Angular.
+- 🧠 Durant mon stage (et pendant mon travail de fin d'études) j'ai pu avoir une réelle expérience avec le Framework PHP Symfony et découvrir des frameworks front-end comme React et Angular.
 - 💪 En ce moment je travaille sur une application web (Symfony) de pet sitting.
 
 ### :bulb: Stack:
