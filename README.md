@@ -2,7 +2,7 @@
 
 - 🌍 Je vis à Liège
 - 👨🏻‍🎓 J'ai obtenu mon Brevet d'Etudes Supérieures de développeur web en juin 2023 (grande distinction)
-- 🧠 Durant mon stage (et pendant mon travail de fin d'études) j'ai pu avoir une réelle expérience avec le Framework PHP Symfony et découvrir le framework Angular sur lequel je continue à me former.
+- 🧠 Durant mon stage (et pendant mon travail de fin d'études) j'ai pu avoir une réelle expérience avec le Framework PHP Symfony et découvrir le framework Angular sur lequel je continue à me former. Par la suite j'aimerais me former sur Docker, les tests unitaires (Jasmine) et le CI/CD (Jenkins, Gitlab).
 - Pour mon TFE j'ai réalisé une application web de pet sitting, "Gardiens à 2 pattes" visible [Ici](https://gardiens2pattes.be)
 
 ### :bulb: Stack:
