@@ -3,8 +3,8 @@
 - 👨🏻‍🎓 Web development graduate with honors (June 2023)
 - 🧠 Real-world experience with PHP Symfony during my internship and thesis; currently exploring and deeply passionate about Angular.
 - 🚀 Future learning goals include Node.js, MongoDB, Express, Docker, unit testing (Jasmine, Karma), and CI/CD (Jenkins, Gitlab).
-- 👉 Check out my pet-sitting web application, "Gardiens à 2 pattes," Here.
-
+- 👉 Check out my pet-sitting web application, "Gardiens à 2 pattes,"[Here](https://gardiens2pattes.be).
+- 
 ### :bulb: Stack:
 <p>
      <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="40" height="40"/> </a>
