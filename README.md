@@ -17,7 +17,7 @@
       <a href="https://wordpress.com/fr/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="WordPress" width="40" height="40"/></a>
      
 ### :bookmark: Find me on DailyDev:
-<a href="https://app.daily.dev/bartav3l"><img src="https://api.daily.dev/devcards/4ea31442ef174d0cbcf0085867b10944.png?r=gyz" width="400" alt="Anthony Ladon's Dev Card"/></a>
+<a href="https://app.daily.dev/bartav3l"><img src="https://api.daily.dev/devcards/4ea31442ef174d0cbcf0085867b10944.png?r=jf8" width="400" alt="Anthony ladon's Dev Card"/></a>
 
 ### :eyes: Don't hesitate to contact me!
 👉 My LinkedIn
