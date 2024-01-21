@@ -5,6 +5,8 @@
 - 🧠 Durant mon stage (et pendant mon travail de fin d'études) j'ai pu avoir une réelle expérience avec le Framework PHP Symfony et découvrir le framework Angular sur lequel je continue à me former. Par la suite j'aimerais me former sur Docker, les tests unitaires (Jasmine) et le CI/CD (Jenkins, Gitlab).
 - Pour mon TFE j'ai réalisé une application web de pet sitting, "Gardiens à 2 pattes" visible [Ici](https://gardiens2pattes.be)
 
+<a href="https://app.daily.dev/bartav3l"><img src="https://api.daily.dev/devcards/4ea31442ef174d0cbcf0085867b10944.png?r=gyz" width="400" alt="Anthony ladon's Dev Card"/></a>
+
 ### :bulb: Stack:
 
 <p>
