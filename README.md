@@ -5,6 +5,7 @@
 - 🚀 Future learning goals include Node.js, MongoDB, Express, Docker, unit testing (Jasmine, Karma), and CI/CD (Jenkins, Gitlab).
 - 👉 Check out my pet-sitting web application, "Gardiens à 2 pattes,"[Here](https://gardiens2pattes.be).
 
+
 ### :bulb: Stack:
 <p>
      <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="40" height="40"/> </a>
@@ -18,7 +19,7 @@
 
      
 ### :bookmark: Find me on DailyDev:
-<a href="https://app.daily.dev/bartav3l"><img src="https://api.daily.dev/devcards/4ea31442ef174d0cbcf0085867b10944.png?r=jf8" width="400" alt="Anthony ladon's Dev Card"/></a>
+<a href="https://app.daily.dev/bartav3l"><img src="https://api.daily.dev/devcards/4ea31442ef174d0cbcf0085867b10944.png?r=pg6" width="400" alt="Anthony ladon's Dev Card"/></a>
 
 ### :eyes: Don't hesitate to contact me!
 👉 My LinkedIn
