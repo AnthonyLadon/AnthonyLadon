@@ -18,4 +18,4 @@
 
 
 ### :bookmark: Find me on DailyDev:
-<a href="https://app.daily.dev/bartav3l"><img src="https://api.daily.dev/devcards/4ea31442ef174d0cbcf0085867b10944.png?r=pg6" width="400" alt="Anthony ladon's Dev Card"/></a>
+<a href="https://app.daily.dev/bartav3l"><img src="https://api.daily.dev/devcards/v2/IfcsoUbbJFwr3pw0BKDcI.png?r=o8e&type=wide" width="652" alt="Anthony ladon's Dev Card"/></a>
