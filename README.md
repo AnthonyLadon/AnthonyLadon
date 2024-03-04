@@ -16,6 +16,4 @@
       <a href="https://www.mysql.com/fr/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL" width="40" height="40"/></a>
       <a href="https://wordpress.com/fr/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="WordPress" width="40" height="40"/></a>
 
-
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anthonyladon" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/anthonyladon?trk=profile-badge">Anthony Ladon</a></div>
               
