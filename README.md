@@ -5,7 +5,7 @@
 - 🚀 Future learning goals include unit testing (Jasmine, Karma), NGrX, Docker.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthonyladon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@bartavel) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@antholad) [!daily.dev](https://app.daily.dev/bartav3l)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthonyladon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@bartavel) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@antholad) [![daily.dev](https://app.daily.dev/bartav3l)
 
 # 💻 Tech Stack:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
