@@ -10,11 +10,7 @@ I graduated in web development, and I'm currently working on an Angular/Nodes.js
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnthonyLadon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnthonyLadon&theme=dark&hide_border=false)<br/>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AnthonyLadon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AnthonyLadon&icon=1&color=2)](https://visitcount.itsvg.in)
