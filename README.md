@@ -1,6 +1,7 @@
 # 💫 About Me:
 I graduated in web development, and I'm currently working on an Angular/Nodes.js E-shop project.<br>👀 I'm open to job opportunities, let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthonyladon) [![X](https://img.shields.io/badge/X-
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthonyladon)
 
 # 💻 Tech Stack:
 ![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge) ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge) 
