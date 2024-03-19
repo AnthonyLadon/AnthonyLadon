@@ -1,19 +1,21 @@
-### ✏️ About Me
+# 💫 About Me:
 - 🌍 Living in Liège
 - 👨🏻‍🎓 Web development graduate with honors (June 2023)
 - 🧠 Real-world experience with PHP Symfony during my internship and thesis; currently exploring and deeply passionate about Angular.
-- 🚀 Future learning goals include unit testing (Jasmine, Karma), NGrX, Docker and CI/CD (Jenkins, Gitlab).
+- 🚀 Future learning goals include unit testing (Jasmine, Karma), NGrX, Docker.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthonyladon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@bartavel) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@antholad) 
 
-### :bulb: Stack:
-<p>
-     <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="40" height="40"/> </a>
-     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="JavaScript" width="40" height="40"/> </a>
-      <a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="Sass" width="40" height="40"/> </a>
-      <a href="https://react.dev/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" width="40" height="40"/> </a>
-      <a href="https://symfony.com/" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2019/01/Symfony_Logo.png" alt="Symfony" width="40" height="40"/></a>
-      <a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="40" height="40"/></a>
-      <a href="https://www.mysql.com/fr/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL" width="40" height="40"/></a>
-      <a href="https://wordpress.com/fr/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="WordPress" width="40" height="40"/></a>
+# 💻 Tech Stack:
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=plastic&logo=symfony&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
 
-              
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnthonyLadon&theme=dark&hide_border=false)<br/>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AnthonyLadon&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AnthonyLadon&icon=1&color=2)](https://visitcount.itsvg.in)
