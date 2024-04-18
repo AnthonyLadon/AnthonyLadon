@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">A passionate developer from Belgium</h3>
 
-- 🔭 I’m currently working on [an e-shop website](https://github.com/AnthonyLadon/e-commerce_MEAN-stack)
+- 🔭 I’m currently working on a fullstack [e-commerce website](https://github.com/AnthonyLadon/e-commerce_MEAN-stack)
 
-- 🌱 I’m currently learning **Node.js / express**
+- 🌱 I’m currently exploring **Node.js / express / mongoDB**
 
-- 👨‍💻 All of my projects are available at [https://anthonyladon.com](https://anthonyladon.com)
+- 👨‍💻 All of my projects are available on my portfolio: [https://anthonyladon.com](https://anthonyladon.com)
 
 - 📫 How to reach me **ladonanthony@gmail.com**
 
