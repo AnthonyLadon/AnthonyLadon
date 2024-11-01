@@ -1,10 +1,6 @@
 # Hi 👋, I'm Anthony
 
-- 🔭 I’m currently working on a fullstack [e-commerce website](https://github.com/AnthonyLadon/e-commerce_MEAN-stack)
-
-- 🌱 I’m exploring **Node.js / express / mongoDB & Unit Tests**
-
-- 👨‍💻 All of my projects are available on my portfolio: [https://anthonyladon.com](https://anthonyladon.com)
+Web Developer at <a href="https://www.etnic.be/" target="_blank" rel="noreferrer">ETNIC</a> (Brussels Belgium)
 
 - 📫 Send me an email: ladonanthony@gmail.com  
 
