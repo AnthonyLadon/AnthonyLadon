@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anthony
 
-Web Developer at <a href="https://www.etnic.be/" target="_blank" rel="noreferrer"><img src="https://www.etnic.be/fileadmin/sites/etnic/uploads/Logos/ETNIC_LOGO_RVB.png"</a> (Brussels Belgium)
+Web Developer at <a href="https://www.etnic.be/" target="_blank" rel="noreferrer"><img src="https://www.etnic.be/fileadmin/sites/etnic/uploads/Logos/ETNIC_LOGO_RVB.png" alt="ETNIC" width="40" height="40"/></a> (Brussels Belgium)
 
 - 📫 Send me an email: <a href="mailto:ladonanthony@gmail.com" target="_blank" rel="noreferrer">ladonanthony@gmail.com</a>
 
